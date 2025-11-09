@@ -1,0 +1,11 @@
+[
+  {
+    "id": 1,
+    "title": "AI-PDF Chatbot",
+    "description": "An intelligent chatbot that reads and answers from PDF files using API-powered AI models. Upload any PDF and have natural conversations about its content.",
+    "tech": ["Python", "LangChain", "OpenAI API", "PDF Processing"],
+    "github": "https://github.com/Pavandeeptec",
+    "demo": null,
+    "featured": true
+  }
+]
